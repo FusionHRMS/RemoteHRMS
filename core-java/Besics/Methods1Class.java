@@ -15,8 +15,8 @@ public class Methods1Class {
 	public void call(){
 		MethodsClass.m1();
 		MethodsClass obj1 = new MethodsClass();
-		obj1.m2();
-		//m1();
+		obj1.m2();// m2 is MethodsClass method
+		//m1(); 
 		//m3();
 	}
 
