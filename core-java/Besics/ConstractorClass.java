@@ -38,5 +38,6 @@ public class ConstractorClass {
 	
 	public void m2(){
 		System.out.println("non staic method");
+		System.out.println("this is m2 method");
 	}
 } 
