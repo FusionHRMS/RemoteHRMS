@@ -28,6 +28,8 @@ public class ConstractorClass {
 	
 	public static void main(String[] args) {
 		new ConstractorClass(10);
+		ConstractorClass c1 = new ConstractorClass(20);
+		c1.m2();
 	}
 	
 	public static void m1(){
